@@ -1,2 +1,2 @@
 # practicum_projects
-Project from Yandex Practicum
+Projects from Yandex Practicum
